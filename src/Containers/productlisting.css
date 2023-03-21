@@ -1,0 +1,7 @@
+.shop__productsContainer {
+  display: grid;
+  padding: 10px;
+  grid-template-columns: repeat(4, 1fr);
+  width: 100%;
+  grid-gap: 40px;
+}

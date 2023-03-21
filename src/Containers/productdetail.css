@@ -1,0 +1,22 @@
+.single__product {
+  border: 1px solid #ccc;
+  width: max-content;
+  margin: auto;
+}
+.single__product img {
+  width: 100%;
+}
+
+.single__product .header {
+  font-weight: 700;
+  font-size: 1.4rem;
+}
+
+.single__product .price {
+  font-size: 1.1rem;
+}
+
+.single__product .meta {
+  font-weight: 500;
+  font-size: 1.2rem;
+}
